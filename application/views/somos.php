@@ -26,7 +26,7 @@
                 </div>
                 <div class="col-sm-6">
                     <div class="team-member">
-                        <img src="<?php echo base_url('assets/img/team/2.jpg'); ?>" class="img-responsive img-circle" alt="">
+                        <img src="<?php echo base_url('assets/img/team/gustavo.jpg'); ?>" class="img-responsive img-circle" alt="">
                         <h4>Gustavo Fontes</h4>
                         <p class="text-muted">Professor de Libras e Administrador</p>
                         <ul class="list-inline social-buttons">
